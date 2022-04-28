@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Olá 👋<h1/>
+  <h1>Salve ✌️<h1/>
 <div align="center">
   <a href="https://github.com/JoaoVictorCz">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=JoaoVictorCz&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
